@@ -26,6 +26,18 @@
             ],
             "c/reservationHelperForm": [
                 "reservationHelperForm/reservationHelperForm.js"
+            ],
+            "c/reservationTile": [
+                "reservationTile/reservationTile.js"
+            ],
+            "c/reservationList": [
+                "reservationList/reservationList.js"
+            ],
+            "c/imageTile": [
+                "imageTile/imageTile.js"
+            ],
+            "c/imageGallery": [
+                "imageGallery/imageGallery.js"
             ]
         }
     },
